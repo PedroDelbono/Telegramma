@@ -28,7 +28,7 @@ import { RouterLink } from 'vue-router'
       </div>
       <div class="reading-copy">
         <p>
-          O <em>Pretiobug (Trichogramma pretiosum)</em> (Hymenoptera: Trichogrammatidae) é uma
+          O <em>TeleGramma-P (Trichogramma pretiosum)</em> é uma
           pequena vespa parasitoide de ovos, amplamente estudada e utilizada em programas de
           controle biológico de pragas agrícolas.
         </p>
