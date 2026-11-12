@@ -30,7 +30,7 @@ const values = [
     <div class="container hero-content">
       <div class="hero-copy">
         <p class="eyebrow eyebrow-light">Telegramma Agentes Biológicos e Consultoria</p>
-        <h1>Ciência a favor de uma agricultura mais biológica.</h1>
+        <h1>Ciência e inovação a serviço do controle biológico</h1>
         <p class="hero-description">
           Soluções e tecnologias para o manejo de pragas agrícolas com conhecimento,
           qualidade e inovação.
@@ -90,7 +90,7 @@ const values = [
         <RouterLink class="solution-card" to="/produtos/trichogramma-pretiosum">
           <span class="card-index">01 / PARASITOIDE</span>
           <span class="solution-symbol symbol-egg" aria-hidden="true"><i></i></span>
-          <h3>Trichogramma pretiosum</h3>
+          <h3>TeleGramma-P (Trichogramma pretiosum)</h3>
           <p>Parasitoide de ovos de lepidópteros-praga para o manejo integrado de pragas.</p>
           <span class="card-link">Saiba mais <span aria-hidden="true">↗</span></span>
         </RouterLink>
@@ -128,7 +128,7 @@ const values = [
     <div class="container contact-banner-content">
       <div>
         <p class="eyebrow eyebrow-light">Vamos conversar?</p>
-        <h2>Vamos construir uma agricultura mais biológica?</h2>
+        <h2>Vamos avançar juntos no controle biológico?</h2>
         <p>Entre em contato para conhecer nossas soluções e possibilidades de parceria.</p>
       </div>
       <RouterLink class="button button-light" to="/contato">Entre em contato <span aria-hidden="true">→</span></RouterLink>

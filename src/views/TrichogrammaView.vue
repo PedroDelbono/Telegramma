@@ -7,7 +7,7 @@ import { RouterLink } from 'vue-router'
     <div class="container detail-hero-content">
       <RouterLink class="back-link" to="/produtos">← Todos os produtos</RouterLink>
       <p class="eyebrow eyebrow-light">Controle biológico de pragas agrícolas</p>
-      <h1><em>Trichogramma pretiosum</em></h1>
+      <h1><em>TeleGramma-P (Trichogramma pretiosum)</em></h1>
       <p>
         Um parasitoide que atua diretamente sobre os ovos das pragas, impedindo o
         desenvolvimento de lagartas antes que causem danos às culturas.
@@ -28,7 +28,7 @@ import { RouterLink } from 'vue-router'
       </div>
       <div class="reading-copy">
         <p>
-          O <em>Trichogramma pretiosum</em> Riley (Hymenoptera: Trichogrammatidae) é uma
+          O <em>Pretiobug (Trichogramma pretiosum)</em> (Hymenoptera: Trichogrammatidae) é uma
           pequena vespa parasitoide de ovos, amplamente estudada e utilizada em programas de
           controle biológico de pragas agrícolas.
         </p>

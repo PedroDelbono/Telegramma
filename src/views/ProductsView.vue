@@ -20,7 +20,7 @@ import { RouterLink } from 'vue-router'
         <div class="product-number">01</div>
         <div class="product-summary">
           <p class="eyebrow">Parasitoide de ovos</p>
-          <h2><em>Trichogramma pretiosum</em></h2>
+          <h2><em>TeleGramma-P (Trichogramma pretiosum)</em></h2>
           <p>
             Pequena vespa parasitoide que atua sobre ovos de lepidópteros-praga, interrompendo
             o ciclo da praga antes da eclosão da lagarta.
