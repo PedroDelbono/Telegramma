@@ -58,14 +58,14 @@ const audiences = [
       <div class="application-gallery">
         <figure>
           <img
-            src="/assets/aplicacoes-biologicas.png"
+            :src="$asset('assets/aplicacoes-biologicas.png')"
             alt="Aplicações de ovos de Ephestia: criação de parasitoides de ovos e alimentação de insetos predadores."
           />
           <figcaption>Criação de parasitoides e insetos predadores.</figcaption>
         </figure>
         <figure>
           <img
-            src="/assets/producao-ephestia.png"
+            :src="$asset('assets/producao-ephestia.png')"
             alt="Exemplos de ácaro predador e preparação de ovos de Ephestia em laboratório."
           />
           <figcaption>Insumo para pesquisa, desenvolvimento e criação de inimigos naturais.</figcaption>

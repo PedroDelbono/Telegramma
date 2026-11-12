@@ -57,7 +57,7 @@ import { RouterLink } from 'vue-router'
       </div>
       <figure class="infographic-frame">
         <img
-          src="/assets/trichogramma-ciclo.png"
+          :src="$asset('assets/trichogramma-ciclo.png')"
           alt="Ilustração das etapas do parasitoide: oviposição no ovo da praga, desenvolvimento, pupação e emergência do adulto."
         />
       </figure>

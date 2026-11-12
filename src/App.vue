@@ -21,9 +21,9 @@ watch(
     <header class="site-header">
       <div class="container header-content">
         <RouterLink class="brand" to="/" aria-label="Telegramma - página inicial">
-          <img class="brand-mark" src="/assets/telegramma-mark.png" alt="" />
+          <img class="brand-mark" :src="$asset('assets/telegramma-mark.png')" alt="" />
           <span class="brand-name">
-            <img class="brand-wordmark" src="/assets/telegramma-wordmark.png" alt="" />
+            <img class="brand-wordmark" :src="$asset('assets/telegramma-wordmark.png')" alt="" />
             <small>Agentes biológicos e consultoria</small>
           </span>
         </RouterLink>
